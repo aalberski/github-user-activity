@@ -7,4 +7,4 @@ Prerequisites:
 pip install requests
 
 Instructions:
-Run ~/Python3 github-activity.py {username}
+1. Run ~/Python3 github-activity.py {username}
