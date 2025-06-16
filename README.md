@@ -8,3 +8,4 @@ pip install requests
 
 Instructions:
 1. Run ~/Python3 github-activity.py {username}
+2.
